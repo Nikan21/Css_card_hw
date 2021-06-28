@@ -9,6 +9,12 @@ body {
   padding: 0;
 }
 
+button {
+  padding: 35px 60px;
+  font-size: 25px;
+  background: white;
+}
+
 .card {
   display: inline-block;
   position: relative;
