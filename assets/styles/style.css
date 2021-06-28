@@ -95,3 +95,7 @@ p:nth-child(3) {
 .bookmark {
   background-image: url(../images/bookmark.svg);
 }
+
+.diamond {
+  background-image: url(../images/diamond.svg);
+}
