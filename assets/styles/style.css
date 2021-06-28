@@ -37,3 +37,9 @@ p {
   font-family: "Times New Roman", Times, serif, sans-serif;
   color: #fdf9fa;
 }
+
+p:nth-child(1) {
+    padding-top: 20px;
+    font-size: 20px;
+    font-weight: 500;
+  }
