@@ -67,3 +67,15 @@ p:nth-child(3) {
   border-radius: 50%;
   opacity: 0.2;
 }
+
+.figure2::before {
+  content: " ";
+  min-width: 200px;
+  min-height: 200px;
+  position: absolute;
+  top: 50%;
+  left: 60%;
+  background: white;
+  border-radius: 50%;
+  opacity: 0.2;
+}
