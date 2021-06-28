@@ -19,3 +19,15 @@
     border-radius: 10px;
     transition-duration: 300ms;
   }
+
+  .card1 {
+    background: linear-gradient(to left, #fe8696, #fec09b);
+  }
+  
+  .card2 {
+    background: linear-gradient(to left, #1990e0, #8cc9f8);
+  }
+  
+  .card3 {
+    background: linear-gradient(to left, #09d0b9, #7dd9d2);
+  }
