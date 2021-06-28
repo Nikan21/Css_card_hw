@@ -1,33 +1,39 @@
 * {
-    box-sizing: border-box;
-  }
+  box-sizing: border-box;
+}
 
-  body {
-    height: 100vh;
-    width: 100%;
-    margin: 0;
-    padding: 0;
-  }
+body {
+  height: 100vh;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
 
-  .card {
-    display: inline-block;
-    position: relative;
-    overflow: hidden;
-    min-width: 400px;
-    height: 200px;
-    margin: 50px 50px;
-    border-radius: 10px;
-    transition-duration: 300ms;
-  }
+.card {
+  display: inline-block;
+  position: relative;
+  overflow: hidden;
+  min-width: 400px;
+  height: 200px;
+  margin: 50px 50px;
+  border-radius: 10px;
+  transition-duration: 300ms;
+}
 
-  .card1 {
-    background: linear-gradient(to left, #fe8696, #fec09b);
-  }
-  
-  .card2 {
-    background: linear-gradient(to left, #1990e0, #8cc9f8);
-  }
-  
-  .card3 {
-    background: linear-gradient(to left, #09d0b9, #7dd9d2);
-  }
+.card1 {
+  background: linear-gradient(to left, #fe8696, #fec09b);
+}
+
+.card2 {
+  background: linear-gradient(to left, #1990e0, #8cc9f8);
+}
+
+.card3 {
+  background: linear-gradient(to left, #09d0b9, #7dd9d2);
+}
+
+p {
+  padding-left: 50px;
+  font-family: "Times New Roman", Times, serif, sans-serif;
+  color: #fdf9fa;
+}
