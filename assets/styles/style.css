@@ -8,3 +8,14 @@
     margin: 0;
     padding: 0;
   }
+
+  .card {
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    min-width: 400px;
+    height: 200px;
+    margin: 50px 50px;
+    border-radius: 10px;
+    transition-duration: 300ms;
+  }
