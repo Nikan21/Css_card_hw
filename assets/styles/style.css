@@ -15,6 +15,10 @@ button {
   background: white;
 }
 
+button:hover {
+  background-color: rgba(158, 58, 58, 0.89);
+}
+
 .card {
   display: inline-block;
   position: relative;
