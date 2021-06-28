@@ -9,6 +9,10 @@ body {
   padding: 0;
 }
 
+.window_for_card {
+  display: inline-block;
+}
+
 button {
   padding: 35px 60px;
   font-size: 25px;
