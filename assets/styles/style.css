@@ -87,3 +87,7 @@ p:nth-child(3) {
   left: 85%;
   bottom: 65%;
 }
+
+.chart {
+  background-image: url(../images/chart.svg);
+}
