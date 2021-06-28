@@ -49,3 +49,9 @@ p:nth-child(2) {
   font-size: 30px;
   font-weight: 700;
 }
+
+p:nth-child(3) {
+    padding-top: 5px;
+    font-size: 17px;
+    font-weight: 600;
+  }
