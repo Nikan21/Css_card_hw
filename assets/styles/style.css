@@ -91,3 +91,7 @@ p:nth-child(3) {
 .chart {
   background-image: url(../images/chart.svg);
 }
+
+.bookmark {
+  background-image: url(../images/bookmark.svg);
+}
