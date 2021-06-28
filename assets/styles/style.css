@@ -79,3 +79,11 @@ p:nth-child(3) {
   border-radius: 50%;
   opacity: 0.2;
 }
+
+.svg_image {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  left: 85%;
+  bottom: 65%;
+}
